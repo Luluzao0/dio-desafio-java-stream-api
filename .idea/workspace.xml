@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5baefc28-9f9a-48b2-845a-65f808090d9d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios-Stream_API-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafios/Desafio9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2VEW2AgMSTDy2TsH0ssppTfz7bI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/DIO-API-STREAM/ganhando_produtividade_com_Stream_API_Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/Desafios-Stream_API-Java/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5baefc28-9f9a-48b2-845a-65f808090d9d" name="Changes" comment="" />
+      <created>1694401512357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694401512357</updated>
+      <workItem from="1694401513674" duration="4229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
